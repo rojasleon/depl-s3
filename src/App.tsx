@@ -26,7 +26,7 @@ const App = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Learn React
+              Hello from AWS S3
             </a>
           </header>
         </div>
