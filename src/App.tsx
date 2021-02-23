@@ -26,7 +26,7 @@ const App = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Hey
+              Hey there bro
             </a>
           </header>
         </div>
