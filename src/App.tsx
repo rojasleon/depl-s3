@@ -26,7 +26,7 @@ const App = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Hello from AWS S3
+              Hello from AWS Cloudfront
             </a>
           </header>
         </div>
