@@ -26,7 +26,7 @@ const App = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Hey there from Cloudfront
+              Hey
             </a>
           </header>
         </div>
